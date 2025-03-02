@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Huynh, and I’m a DevOps Engineer passionate about CI/CD, AWS Cloud, and Infrastructure as Code.</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
